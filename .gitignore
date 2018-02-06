@@ -1,0 +1,4 @@
+#ignore files
+*.pdf
+*.o
+*.sublime-workspace
